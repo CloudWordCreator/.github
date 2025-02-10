@@ -1,6 +1,6 @@
 # CloudWordCreator
 
-[スライド](スライド.pdf)
+[スライド](https://github.com/CloudWordCreator/.github/blob/main/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89.pdf)
 
 ## 作成目的
 
@@ -17,7 +17,7 @@
 
 ## ネットワーク構成
 
-![ネットワーク構成](images\ネットワーク構成.png)
+![images\ネットワーク構成.png](https://github.com/CloudWordCreator/.github/blob/main/images/%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A7%8B%E6%88%90.png?raw=true)
 
 ## セキュリティ
 
